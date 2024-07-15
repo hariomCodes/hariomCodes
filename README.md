@@ -1,7 +1,7 @@
 - Hi, I’m Hari Om Tiwari
 - I am a fullstack developer with more than 2 years of experience.
 - I am skilled in python, javascript languages.
-- I build modern react frontend applications and backend servers using django.
+- I build modern react frontend applications and backend applications using django.
 - 📫 How to reach me: You may drop mail at hariom.codes@gmail.com ...
 
 <!---
