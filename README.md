@@ -4,7 +4,7 @@
 
 I build reliable backend systems, data pipelines, and product features with Python and TypeScript. Over four years, I have worked on cloud telephony analytics, high-volume data exports, event-driven workflows, and e-commerce experiences.
 
-I am open to **remote backend/platform roles** and **USD freelance contracts**. I prefer focused part-time engagements and am also open to stable full-time opportunities.
+I am open to **remote backend/platform roles** and **freelance contracts**. I prefer focused part-time engagements and am also open to stable full-time opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/hariom-tiwari) · [Email](mailto:hariom.codes@gmail.com) · [Live project](https://taskflow-hariom.onrender.com)
 
